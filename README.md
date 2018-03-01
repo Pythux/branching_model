@@ -1,5 +1,5 @@
 
-test different branching system,
+Test on branching system,
 
-inspiration:
+Inspiration:
 http://nvie.com/posts/a-successful-git-branching-model/
