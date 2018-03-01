@@ -5,3 +5,6 @@ Inspiration:
 http://nvie.com/posts/a-successful-git-branching-model/
 
 github: Insights/Network seems to look good :)
+
+second branching system,
+  for solo little projects
